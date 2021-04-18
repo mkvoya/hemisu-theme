@@ -114,7 +114,7 @@
      `(font-lock-preprocessor-face  ((t (:foreground ,accent2))))
 
      `(vertical-border              ((nil (:foreground ,subtle))))
-     `(header-line                  ((t (:background "#000000"))))
+     `(header-line                  ((t (:background "#c0c0f0"))))
      `(mode-line ((t (:background ,accent2 :foreground ,bg :box nil))))
      `(mode-line-inactive ((t (:background ,subtle :foreground ,bg :box nil)))))
 
